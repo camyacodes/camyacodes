@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camyacodes
 - 👀 I’m interested in creating beautiful, accessible, and responsive websites/web apps.
-- 🌱 I’m currently enrolled in a Full Stack Development Boot Camp through the University of Central Florida.
-- 💞️ I’m looking to collaborate on any project that will challenge me, so that I can improve my coding skils. 
+- 🌱 I've earned a certificate in a Full Stack Development through the University of Central Florida.
+- 💞️ I’m looking for full time employment and to collaborate on any project that will challenge me, so that I can improve my coding skils. 
 - 📫 You can reach me at camyacodes@gmail.com
 
 <!---
