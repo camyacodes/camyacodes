@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @camyacodes
 - 👀 I’m interested in creating beautiful, accessible, and responsive websites/web apps.
-- 🌱 I've earned a certificate in Full Stack Development through the University of Central Florida.
 - 💞️ I’m looking for full time employment and to collaborate on any project that will challenge me, so that I can improve my coding skils. 
 - 📫 You can reach me at camyacodes@gmail.com
 
