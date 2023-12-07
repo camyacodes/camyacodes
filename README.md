@@ -18,9 +18,7 @@
   </a> -->
 </p>
 
-Full Stack Software Engineer with a background in data analysis.
-
-See [my website](https://camyacodes.github.io/camyarobinson) for more information!
+<p align="center">Full Stack Software Engineer with a background in data analysis.</p>
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -39,7 +37,7 @@ See [my website](https://camyacodes.github.io/camyarobinson) for more informatio
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://niqueseats-8c1c3659f187.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=VIDEO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>React, Bootstrap, MongoDB, Node.js, & Express.js</strong> - A meal delivery service app that delivers homemade meals
@@ -80,7 +78,7 @@ See [my website](https://camyacodes.github.io/camyarobinson) for more informatio
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1T5EJF5ZMHfdiYBuwffOat1nw5WzF-oLp/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=youtube&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - A Node.js command-line application that takes in information about
