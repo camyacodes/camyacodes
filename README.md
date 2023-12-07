@@ -18,7 +18,7 @@
   </a> -->
 </p>
 
-Full Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in data analysis.
+Full Stack Software Engineer with a background in data analysis.
 
 See [my website](https://camyacodes.github.io/camyarobinson) for more information!
 
