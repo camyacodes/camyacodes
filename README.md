@@ -90,7 +90,7 @@ See [my website](https://camyacodes.github.io/camyarobinson) for more informatio
       <h3 align="center">Team Profile Generator</h3>
         <br />
         <a target="_blank" href="https://drive.google.com/file/d/1T5EJF5ZMHfdiYBuwffOat1nw5WzF-oLp/view?usp=sharing">
-          <img src="https://user-images.githubusercontent.com/87587644/152725373-71860537-a185-44f6-98cc-b08feaa4bb" width="100%" alt="TeamProfileGenerator"/>
+          <img src="https://user-images.githubusercontent.com/87587644/152725373-71860537-a185-44f6-98cc-b08feaa4bb0b.png" width="100%" alt="TeamProfileGenerator"/>
         </a>
         <br />
         <p align="center">
