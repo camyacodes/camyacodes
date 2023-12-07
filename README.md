@@ -106,26 +106,6 @@ See [my website](https://camyacodes.github.io/camyarobinson) for more informatio
             in a more convenient way, by providing popular movie titles sorted
             by genre all on one site.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Team Profile Generator</h3>
-        <br />
-        <a target="_blank" href="https://drive.google.com/file/d/1T5EJF5ZMHfdiYBuwffOat1nw5WzF-oLp/view?usp=sharing">
-          <img src="https://user-images.githubusercontent.com/87587644/152725373-71860537-a185-44f6-98cc-b08feaa4bb0b.png" width="100%" alt="TeamProfileGenerator"/>
-        </a>
-        <br />
-        <p align="center">
-
-  <a href="https://github.com/camyacodes/team-profile-generator" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1T5EJF5ZMHfdiYBuwffOat1nw5WzF-oLp/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=DEMO&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - A Node.js command-line application that takes in information about
-            employees on a software engineering team and generates a webpage
-            that displays summaries for each person.</p>
-    </td>
   </tr>
 </table>
 
