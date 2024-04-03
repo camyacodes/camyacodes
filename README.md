@@ -1,5 +1,5 @@
 <img src="./images/banner.png" width="100%">
-
+<!------------------------------------------------------SOCIAL LINKS------------------------------------------------------------>
 <p align="center">
   <a href="https://camyacodes.github.io/camyarobinson/#/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -10,20 +10,15 @@
   <a href="https://twitter.com/camyacodes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-<!--   <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
 </p>
 
 <p align="center">Full Stack Software Engineer with a background in data analysis.</p>
-
+<!------------------------------------------------------PROJECTS------------------------------------------------------------>
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
 
   <tr>
+    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
     <td width="50%" valign="top">
       <h3 align="center">Nique's Eats</h3>
         <br />
@@ -44,6 +39,7 @@
             to customers on their date of choice. This ecommerce full-stack
             application utilizes the MERN stack.</p>
     </td>
+    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
     <td width="50%" valign="top">
       <h3 align="center">CamyaCodes.com</h3>
         <br />
@@ -65,6 +61,7 @@
   </tr>
 
   <tr>
+    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
       <td width="50%" valign="top">
       <h3 align="center">Team Profile Generator</h3>
         <br />
@@ -85,6 +82,7 @@
             employees on a software engineering team and generates a webpage
             that displays summaries for each person.</p>
     </td>
+    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
     <td width="50%" valign="top">
       <h3 align="center">What 2 Watch</h3>
       <br />
@@ -112,51 +110,14 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=52985b&style=plastic&logo=python"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=JAVA&color=cdf998&style=plastic&logo=java"/> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=SOLIDITY&color=8fbc56&style=plastic&logo=solidity"/> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=SELENIUM&color=cdf998&style=plastic&logo=selenium"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=98bf53&style=plastic&logo=amazon"/> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/> -->
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=LINUX&color=bbb111&style=plastic&logo=linux"/> -->
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=VS code&color=blue&style=plastic&logo=visual-studio-code"/>
-  
-<!--     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/> -->
 </p>
 
-<!---
-
-<h1 align="center">Connect</h1>
-
-<p align="center">
-  <a href="https://camyacodes.github.io/camyarobinson/#/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/camyarobinson/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/camyacodes" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-<!--   <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a> -->
-<!--   <a href="https://shawncharles.com/resume" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
-  </a> -->
-</p> 
-
-<!---
-camyacodes/camyacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
