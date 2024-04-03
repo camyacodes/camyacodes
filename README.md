@@ -84,23 +84,22 @@
     </td>
     <!------------------------------------------------------PROJECTS------------------------------------------------------------>
     <td width="50%" valign="top">
-      <h3 align="center">What 2 Watch</h3>
+      <h3 align="center">Templify</h3>
       <br />
-        <a target="_blank" href="https://camyacodes.github.io/what-to-watch-1/">
+        <a target="_blank" href="https://camyacodes.github.io/templify/">
           <img src="./images/what2watchscreenshot.png" width="100%" alt="What2Watch"/>
         </a>
       <br />
         <p align="center">
-  <a href="https://github.com/camyacodes/what-to-watch-1" target="_blank">
+  <a href="https://github.com/camyacodes/templify" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://camyacodes.github.io/what-to-watch-1/" target="_blank">
+  <a href="https://camyacodes.github.io/templify/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - An application that provides users the experience of finding movies
-            in a more convenient way, by providing popular movie titles sorted
-            by genre all on one site.</p>
+        <p><strong>React, Bootstrap</strong> - An application that allows users to select from a variety of pre-designed templates, 
+          customize them to their liking, and generate an email with a subject line ready for use.</p>
     </td>
   </tr>
 </table>
