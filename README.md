@@ -87,7 +87,7 @@
       <h3 align="center">Templify</h3>
       <br />
         <a target="_blank" href="https://camyacodes.github.io/templify/">
-          <img src="./images/what2watchscreenshot.png" width="100%" alt="What2Watch"/>
+          <img src="./images/screenshot.png" width="100%" alt="Templify"/>
         </a>
       <br />
         <p align="center">
