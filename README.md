@@ -18,7 +18,7 @@
 <table bordercolor="#66b2b2">
 
   <tr>
-    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
+    <!------------------------------------------------------PROJECT 1------------------------------------------------------------>
     <td width="50%" valign="top">
       <h3 align="center">Nique's Eats</h3>
         <br />
@@ -39,9 +39,31 @@
             to customers on their date of choice. This ecommerce full-stack
             application utilizes the MERN stack.</p>
     </td>
-    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
-    <td width="50%" valign="top">
-      <h3 align="center">CamyaCodes.com</h3>
+    <!------------------------------------------------------PROJECT 2------------------------------------------------------------>
+        <td width="50%" valign="top">
+      <h3 align="center">Templify</h3>
+      <br />
+        <a target="_blank" href="https://camyacodes.github.io/templify/">
+          <img src="./images/screenshot.png" width="100%" alt="Templify"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/camyacodes/templify" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://camyacodes.github.io/templify/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Bootstrap</strong> - An application that allows users to select from a variety of pre-designed templates, 
+          customize them to their liking, and generate an email with a subject line ready for use.</p>
+    </td>
+  </tr>
+
+  <tr>
+        <!------------------------------------------------------PROJECT 3------------------------------------------------------------>
+        <td width="50%" valign="top">
+      <h3 align="center">camyacodes portfolio</h3>
         <br />
       <a target="_blank" href="https://camyacodes.github.io/camyarobinson/">
             <img src="./images/portfoliositescreenshot.png" width="100%"  alt="Portfolio"/>
@@ -56,12 +78,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Bootstrap</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>React, Bootstrap</strong> - Portfolio Site explaining a bit about myself and my coding projects.</p>
     </td>
-  </tr>
-
-  <tr>
-    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
+    <!------------------------------------------------------PROJECT 4------------------------------------------------------------>
       <td width="50%" valign="top">
       <h3 align="center">Team Profile Generator</h3>
         <br />
@@ -81,25 +100,6 @@
         <p><strong>HTML5, CSS3, Javascript, Bootstrap</strong> - A Node.js command-line application that takes in information about
             employees on a software engineering team and generates a webpage
             that displays summaries for each person.</p>
-    </td>
-    <!------------------------------------------------------PROJECTS------------------------------------------------------------>
-    <td width="50%" valign="top">
-      <h3 align="center">Templify</h3>
-      <br />
-        <a target="_blank" href="https://camyacodes.github.io/templify/">
-          <img src="./images/screenshot.png" width="100%" alt="Templify"/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="https://github.com/camyacodes/templify" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://camyacodes.github.io/templify/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React, Bootstrap</strong> - An application that allows users to select from a variety of pre-designed templates, 
-          customize them to their liking, and generate an email with a subject line ready for use.</p>
     </td>
   </tr>
 </table>
