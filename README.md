@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">Full Stack Software Engineer with a background in data analysis.</p>
+<p align="center">Full Stack Software Engineer dedicated to learning, growth, and building products that help others.</p>
 <!------------------------------------------------------PROJECTS------------------------------------------------------------>
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
