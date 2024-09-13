@@ -62,11 +62,11 @@
 
   <tr>
         <!------------------------------------------------------PROJECT 3------------------------------------------------------------>
-        <td width="50%" valign="top" style="text-align: center;">
+        <td width="50%" valign="top" ">
       <h3 align="center">AnimalDex</h3>
         <br />
       <a target="_blank" href="https://camyacodes.github.io/camyarobinson/">
-           <img src="./images/Screenshot 2024-09-06 212532.png" height="300" style="width: auto;" alt="Portfolio"/>
+           <img src="./images/WebDex.png" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
