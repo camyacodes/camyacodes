@@ -63,7 +63,7 @@
   <tr>
         <!------------------------------------------------------PROJECT 3------------------------------------------------------------>
         <td width="50%" valign="top">
-      <h3 align="center">camyacodes portfolio</h3>
+      <h3 align="center">AnimalDex</h3>
         <br />
       <a target="_blank" href="https://camyacodes.github.io/camyarobinson/">
             <img src="./images/portfoliositescreenshot.png" width="100%"  alt="Portfolio"/>
@@ -71,14 +71,14 @@
         <br />
         <p align="center">
 
-  <a href="https://github.com/camyacodes/camyarobinson" target="_blank">
+  <a href="https://github.com/camyacodes/Animaldex" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://camyacodes.github.io/camyarobinson/" target="_blank">
+  <a href="https://camyacodes.github.io/Animaldex/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Bootstrap</strong> - Portfolio Site explaining a bit about myself and my coding projects.</p>
+        <p><strong>React, Vite, AWS S3, RapidApi</strong> - 1st place @ AnimalHack 2024</p>
     </td>
     <!------------------------------------------------------PROJECT 4------------------------------------------------------------>
       <td width="50%" valign="top">
