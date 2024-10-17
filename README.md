@@ -65,7 +65,7 @@
         <td width="50%" valign="top" ">
       <h3 align="center">AnimalDex</h3>
         <br />
-      <a target="_blank" href="https://camyacodes.github.io/camyarobinson/">
+      <a target="_blank" href="https://camyacodes.github.io/camyarobinson/](https://camyacodes.github.io/Animaldex/">
            <img src="./images/WebDex.png" alt="Portfolio"/>
         </a>
         <br />
